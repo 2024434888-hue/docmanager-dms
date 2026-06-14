@@ -33,6 +33,10 @@ DocManager is a localhost web-based Document Management System developed using P
 - Delete documents
 - View activity logs
 
+### Demo Admin Login
+Username: faiz
+Password: faiz123
+
 ## How to Run the Project Locally
 
 1. Install XAMPP.
